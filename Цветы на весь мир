@@ -1,0 +1,75 @@
+<html style="font-family:cursive;text-align:center">
+    <body style="background:pink">
+        <header style="background-color:darkblue">
+          <h3 style="color:white"><img src="blob:https://www.figma.com/e840eb2d-8484-4150-9fb0-1f3957ce52ea" width="30px" height="30px"/> © Цветы на весь мир 2024</h3>
+          <a href ="#вопросики">вопроссы</a> <a href ="#подвал">связатся с нами</a>
+        </header>
+        <main>
+                <h1 style="color:red">Цветы на весь мир</h1>
+                    <p style ="color:sandybrown">Хотите купить красивые цветы?</p>
+                    <img src="blob:https://www.figma.com/1a859002-c742-4c4d-8ccd-a0c5ad85aa23" width="120px" height="100px"/>
+                    <p style ="color:brown">Тогда мы вам поможем! Мы продаём семена, маленькие ростки, а также уже готовые цветы. Вы можете как попросить свой собственный букет, так и выбрать уже готовые. Вот таблица самых популярных цветков:</p>
+            <table style="text-align:center">
+                <tr style ="background-color:darkgoldenrod">
+                    <td style = "border:1px solid green">Название</td>
+                    <td style = "border:1px solid green">Вид</td>
+                    <td style = "border:1px solid green">Примерый рост</td>
+                    <td style = "border:1px solid green">Цвет цветков</td>
+                </tr>
+                <tr>
+                    <td style = "border:1px solid green">Роза<img src="blob:https://www.figma.com/603ee8e5-80c5-4ab7-a496-93d59815a035" width="30px" height="30px"/></td>
+                    <td style = "border:1px solid green">Роза "Ангелу"</td>
+                    <td style = "border:1px solid green">55-65 см</td>
+                    <td style = "border:1px solid green">Светло белый</td>
+                </tr>
+                <tr>
+                    <td style = "border:1px solid green">Плетистая роза<img src="blob:https://www.figma.com/3deab4e4-7f6f-4f27-a3f5-6b2eabdebda5" width="30px" height="30px"/></td>
+                    <td style = "border:1px solid green">Лагуна</td>
+                    <td style = "border:1px solid green">30 см</td>
+                    <td style = "border:1px solid green">Махровый</td>
+                </tr>
+                <tr>
+                    <td style = "border:1px solid green">Гортензия<img src="blob:https://www.figma.com/603ee8e5-80c5-4ab7-a496-93d59815a035" width="30px" height="30px"/></td>
+                    <td style = "border:1px solid green">Древовидная</td>
+                    <td style = "border:1px solid green">50-70 см</td>
+                    <td style = "border:1px solid green">Белый</td>
+                </tr>
+                <tr>
+                    <td style = "border:1px solid green">Колендула<img src="blob:https://www.figma.com/603ee8e5-80c5-4ab7-a496-93d59815a035" width="30px" height="30px"/></td>
+                    <td style = "border:1px solid green">Полевая</td>
+                    <td style = "border:1px solid green">10-30 см</td>
+                    <td style = "border:1px solid green">Белый</td>
+                </tr>
+                <tr>
+                    <td style = "border:1px solid green">Питуния<img src="blob:https://www.figma.com/e271339b-279f-4669-a750-07895ce80315" width="30px" height="30px"/></td>
+                    <td style = "border:1px solid green">Лавина</td>
+                    <td style = "border:1px solid green">25–35 см</td>
+                    <td style = "border:1px solid green">ярко-розовая</td>
+                </tr>
+            </table>
+                <h3 id="вопросики" style="color:darkred">Часто задаваемые вопросы:<br/></h3>
+                    <p><b style="color:darkred">Какие виды цветов и букетов вы предлагаете?</b><br/>Виды цветов и букетов: предлагаем разнообразные букеты, композиции и отдельные цветы, такие как розы, пионы, гортензии, хризантемы и многие другие.<br/><br/>
+                    <b style="color:darkred">Какие услуги вы предоставляете?</b><br/>Услуги: предоставляем услуги по созданию букетов, оформлению композиций, доставке цветов и упаковке подарков.<br/><br/>
+                    <b style="color:darkred">Как можно заказать букет у вас?</b><br/>Заказ букета: клиенты могут заказать букет онлайн на нашем сайте или через социальные сети, выбрав из предложенных вариантов или создав индивидуальный заказ.<br/><br/>
+                    <b style="color:darkred">Есть ли у вас доставка цветов?</b><br/>Доставка цветов: да, у нас есть услуга доставки цветов по городу и области, стоимость и время доставки зависят от расстояния и объёма заказа.<br/><br/>
+                    <b style="color:darkred">Работаете ли вы с корпоративными клиентами?</b><br/>Работа с корпоративными клиентами: да, мы предоставляем услуги по оформлению корпоративных мероприятий и офисов.<br/><br/>
+                    <b style="color:darkred">Предоставляете ли вы услуги флористики для мероприятий?</b><br/>Услуги флористики для мероприятий: да, наши флористы создают уникальные композиции для свадеб, юбилеев, корпоративных вечеринок и других мероприятий.<br/><br/>
+                    <b style="color:darkred">Какие гарантии вы предоставляете на свои букеты?</b><br/>Гарантии на букеты: предоставляем гарантию свежести и качества цветов, при правильном уходе букет будет радовать долгое время.<br/><br/>
+                    <b style="color:darkred">Как часто вы обновляете ассортимент цветов и композиций?</b><br/>Обновление ассортимента: мы постоянно следим за новыми тенденциями и добавляем новые виды цветов и композиций в наш ассортимент, обновление происходит несколько раз в год.<br/><br/>
+                    <b style="color:darkred">Есть ли у вас сезонные предложения или скидки?</b><br/>Сезонные предложения и скидки: да, у нас есть сезонные скидки и специальные предложения для клиентов, информацию о скидках и предложениях можно найти на сайте и в социальных сетях.<br/><br/>
+                    <b style="color:darkred">Можете рассказать о своём опыте работы в цветочном бизнесе?</b><br/>Опыт работы: начали работать мы недавно, но наши флористы обладают высокой квалификацией и творческим подходом к работе.</p>
+                <h3>Если у вас есть какие-либо пожелания или вопросы, то напишите здесь:</h3>
+                <from>
+                    <input type="text">
+                    <input type="submit" value="отправить">
+                </from>
+        </main>
+        <footer id="подвал" style="background:darkblue">
+            <h3 style="color:white">Если вы хотите связатся с нами (пока-что со мной):</h3>
+                <img src="file:///C:/Users/Saror/Downloads/Telegram%20Desktop/image_2024-11-23_20-31-43.png" width="100px" height="100px"/>
+                <p style="color:white">Мой телеграм</p>
+                <a href="https://yandex.ru/maps/org/krayevaya_spetsializirovannaya_psikhiatricheskaya_bolnitsa_3_yessentukskiy_filial/1094004747/?ll=42.851377%2C44.051435&z=15.8">Адрес: ул. Буачидзе 36</a>
+                <p style="color:white">Телефон: +7 (87934) 6-34-72</p>
+        </footer>
+    </body>
+</html>
